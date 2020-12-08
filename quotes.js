@@ -1,0 +1,16 @@
+export const quotes = [
+  '*andas i micken*',
+  'asså jag orkar inte',
+  'asså spelet funkar ju inte',
+  'dom är ju cp-retards',
+  'asså du suger ju mid…. XD',
+  '*kollar på youtube*  "hazhazhazhaz"',
+  'Game? Nuuu?',
+  'Är vi fem, är vi fem??',
+  'Asså Edvaaaard!',
+  'Kan ni komma in eller?',
+  'Vad gör ni ens?',
+  'Vi borde göra såhär, i dunno',
+  'TRIGGERED',
+  'Ah men typ',
+];
